@@ -13,8 +13,9 @@ Outside of computer science, I have many other interests. Some of them are:
 * Sports
 * Philosophy
 * Psychology
+
 Some of my interests overlap with my hobbies. But in my free time I like to do the following activities:
-                     * Reading books
-                     * Listening to music
-                     * Play sports
+* Reading books
+* Listening to music
+* Play sports
 
